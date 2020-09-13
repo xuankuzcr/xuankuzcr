@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 😄 Hi, I'm Chunran Zheng, an undergraduate from Xi'an Jiaotong University, China. </br>
 🔭 I’m currently working on multi-sensor fusion SLAM based on the livox lidar and vision. </br>
-⚡ Fun experience: I was a member of the Robomaster and RoboCup robotics teams of XJTU. At the same time, I initiated the service robot group of XJTU, and achieved good results in WRC and China robot competition.
+⚡ Fun experience: I was a member of the Robomaster and RoboCup robotics teams of XJTU. At the same time, I initiated the service robot group of XJTU, and achieved good results in WRC and China Robot Competition.
 
 <table><tr><td align="center" width="55%">
   
