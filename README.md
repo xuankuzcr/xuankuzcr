@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 <p style="text-align: center;"> 
     <img src="./img/boy1.gif" alt="boy1" height=150 />
-    <img src="./img/girl2.gif" alt="girl2" height=150 />
-    <img src="./img/girl3.gif" alt="girl3" height=150 /> 
+    <img src="./img/girl1.gif" alt="girl1" height=150 />
+    <img src="./img/girl2.gif" alt="girl2" height=150 /> 
     </br>
     wink~wink~~
     
