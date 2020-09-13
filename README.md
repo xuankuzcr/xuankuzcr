@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <div style="margin:0 auto; height:auto;">
 
 <p style="text-align: center;"> 
-    <img src="./img/boy1.gif" alt="boy1" height=150 />
-    <img src="./img/girl1.gif" alt="girl1" height=150 />
+    <img src="https://github.com/xuankuzcr/xuankuzcr/tree/master/img/boy1.gif" alt="boy1" height=150 />
+    <img src="https://github.com/xuankuzcr/xuankuzcr/tree/master/img/girl1.gif" alt="girl1" height=150 />
     </br>
     wink~wink~~
     
