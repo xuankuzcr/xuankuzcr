@@ -37,6 +37,5 @@ Here are some ideas to get you started:
     <!--img src="https://github.com/xuankuzcr/xuankuzcr/blob/master/img/girl1.gif" alt="girl1" height=150 /-->
     </br>     
 </p>
-**wink~**
 
 </div>
