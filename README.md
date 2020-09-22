@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://img.shields.io/badge/QQ-384942535-green.svg) ![](https://img.shields.io/badge/WeChat-zcr384942535-green.svg) [![Blog Badge](https://img.shields.io/badge/zhihu-郑纯然-brightgreen)](https://www.zhihu.com/people/zheng-chun-ran) [![Mail Badge](https://img.shields.io/badge/-18846640555@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ethan.li.whu@gmail.com)](mailto:18846640555@163.com)
+![](https://img.shields.io/badge/QQ-384942535-green.svg) ![](https://img.shields.io/badge/WeChat-zcr384942535-green.svg) [![Blog Badge](https://img.shields.io/badge/Zhihu-郑纯然-brightgreen)](https://www.zhihu.com/people/zheng-chun-ran) [![Mail Badge](https://img.shields.io/badge/-18846640555@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ethan.li.whu@gmail.com)](mailto:18846640555@163.com)
 
 😄 Hi, I'm Chunran Zheng, a graduate majoring in automation from Xi'an Jiaotong University, China. </br>
 🔭 I’m currently working on multi-sensor fusion SLAM based on the livox lidar and vision. </br>
