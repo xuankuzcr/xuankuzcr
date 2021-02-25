@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 😄 Hi, I'm Chunran Zheng, a graduate majoring in automation from Xi'an Jiaotong University, China. </br>
 🔭 I’m currently working in SUSTech as a RA focusing on multi-sensor fusion SLAM based on the Livox lidar and vision. </br>
-⚡ Fun experience: I was a member of the Robomaster and RoboCup robotics teams of XJTU. At the same time, I initiated the service robot group of XJTU, and achieved good results in WRC and China Robot Competition in 2019.
+⚡ Fun experience: I was a member of the Robomaster and RoboCup robotics teams of XJTU. At the same time, I initiated the service robot group of XJTU, achieving good results in WRC and China Robot Competition in 2019.
 
 <table><tr><td align="center" width="55%">
   
