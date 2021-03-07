@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 </td></tr></table>
 
-<div style="margin:0 auto; height:auto;">
+<!--div style="margin:0 auto; height:auto;"-->
 
-<p style="text-align: center;"> 
+<!--p style="text-align: center;"--> 
     <!--img src="https://github.com/xuankuzcr/xuankuzcr/blob/master/img/boy1.gif" alt="boy1" height=150 /-->
     <!--img src="https://github.com/xuankuzcr/xuankuzcr/blob/master/img/girl1.gif" alt="girl1" height=150 /-->
-    </br>     
-</p>
+    <!--/br-->     
+<!--/p-->
 
-</div>
+<!--/div-->
