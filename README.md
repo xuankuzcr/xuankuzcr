@@ -29,13 +29,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuankuzcr&layout=compact&theme=dark)](https://github.com/xuankuzcr/github-readme-stats)
 
 </td></tr></table>
-
-<!--div style="margin:0 auto; height:auto;"-->
-
-<!--p style="text-align: center;"--> 
-    <!--img src="https://github.com/xuankuzcr/xuankuzcr/blob/master/img/boy1.gif" alt="boy1" height=150 /-->
-    <!--img src="https://github.com/xuankuzcr/xuankuzcr/blob/master/img/girl1.gif" alt="girl1" height=150 /-->
-    <!--/br-->     
-<!--/p-->
-
-<!--/div-->
