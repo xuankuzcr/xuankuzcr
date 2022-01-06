@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 🔭 I'm currently studying at HKU as a Mphil student, focusing on multi-sensor fusion SLAM based on the Livox LiDAR and vision. </br>
 ⚡ Fun experience: I was a member of the Robomaster and RoboCup robotics teams of XJTU. At the same time, I initiated the service robot group of XJTU, achieving good results in WRC and China Robot Competition in 2019.
 
-<!-- ![Chunran's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=xuankuzcr&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xuankuzcr&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![github contribution grid snake animation](https://raw.githubusercontent.com/borongyuan/borongyuan/output/github-contribution-grid-snake.svg) -->
 <table>
 
 <tr>
