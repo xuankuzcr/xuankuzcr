@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](https://img.shields.io/badge/QQ-384942535-green.svg) ![](https://img.shields.io/badge/WeChat-zcr384942535-green.svg) [![Blog Badge](https://img.shields.io/badge/Zhihu-郑纯然-brightgreen)](https://www.zhihu.com/people/zheng-chun-ran) [![Mail Badge](https://img.shields.io/badge/-zhengcr@connect.hku.hk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ethan.li.whu@gmail.com)](mailto:zhengcr@connect.hku.hk)
 
-😄 Hi, I'm Chunran Zheng, graduated from Automation of Xi'an Jiaotong University in July, 2020. </br>
+😄 Hi, I'm Chunran Zheng, graduated from Automation of Xi'an Jiaotong University (XJTU) in July, 2020. </br>
 🔭 I'm currently studying in [MaRS Lab of HKU](https://mars.hku.hk/) as a Ph.D. student, focusing on LiDAR-Inertial-Visual SLAM && Sensor Fusion. </br>
 ⚡ Previous experince: I was a team member of the Robomaster and RoboCup robotics teams of XJTU. At the same time, I initiated the service robot group of XJTU, achieving brilliant results in WRC and China Robot Competition in 2019. From August to December 2020, I worked as a research assistant in [ISEE group of SUSTech](https://isee.technology/).
 
