@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](https://img.shields.io/badge/QQ-384942535-green.svg) ![](https://img.shields.io/badge/WeChat-zcr384942535-green.svg) [![Blog Badge](https://img.shields.io/badge/Zhihu-Range-brightgreen)](https://www.zhihu.com/people/zheng-chun-ran) [![Mail Badge](https://img.shields.io/badge/-zhengcr@connect.hku.hk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ethan.li.whu@gmail.com)](mailto:zhengcr@connect.hku.hk)
 
-😄 Hi, I'm Chunran Zheng (郑纯然). I graduated with distinction as an Outstanding Undergraduate in Automation from Xi'an Jiaotong University (XJTU) in July 2020. I am currently pursuing a Ph.D. at the [MaRS Lab of HKU](https://mars.hku.hk/), where I focus on pioneering research in LiDAR-inertial-visual SLAM, pixel-level 3D reconstruction, 3DGS, and multi-sensor calibration.
+😄 Hi, I'm Chunran Zheng (郑纯然). I graduated with distinction as an Outstanding Undergraduate in Automation from Xi'an Jiaotong University (XJTU) in July 2020. I am currently pursuing a Ph.D. at the [MaRS Lab of HKU](https://mars.hku.hk/), where I focus on pioneering research in LiDAR-inertial-visual SLAM, implicit-explicit combined 3D reconstruction, 3DGS, and multi-sensor calibration.
 
 <!--table><tr><td align="center" width="55%">
   
