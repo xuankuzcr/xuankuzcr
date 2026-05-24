@@ -1,29 +1,34 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**xuankuzcr/xuankuzcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Chunran Zheng | 郑纯然
 
-Here are some ideas to get you started:
+**Spatial Intelligence · LiDAR-Vision Fusion · SLAM · Calibration · 3D Reconstruction**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://img.shields.io/badge/QQ-384942535-green.svg) ![](https://img.shields.io/badge/WeChat-zcr384942535-green.svg) [![Blog Badge](https://img.shields.io/badge/Zhihu-Range-brightgreen)](https://www.zhihu.com/people/zheng-chun-ran) [![Mail Badge](https://img.shields.io/badge/-zhengcr@connect.hku.hk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ethan.li.whu@gmail.com)](mailto:zhengcr@connect.hku.hk)
+[![Homepage](https://img.shields.io/badge/Homepage-zhengchunran.com-2563eb?style=flat-square)](https://zhengchunran.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-xuankuzcr-111827?style=flat-square&logo=github)](https://github.com/xuankuzcr)
+[![Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=PZGoMNAAAAAJ)
+[![Zhihu](https://img.shields.io/badge/Zhihu-郑纯然-0084ff?style=flat-square)](https://www.zhihu.com/people/zheng-chun-ran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chunran_Zheng-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chunran-zheng-11b73b1a5/)
+[![Email](https://img.shields.io/badge/Email-zhengcr%40connect.hku.hk-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:zhengcr@connect.hku.hk)
 
-😄 Hi, I'm Chunran Zheng (郑纯然). I graduated with distinction as an Outstanding Undergraduate in Automation from Xi'an Jiaotong University (XJTU) in July 2020. I am currently pursuing a Ph.D. at the [MaRS Lab of HKU](https://mars.hku.hk/), where I focus on pioneering research in LiDAR-inertial-visual SLAM, multi-sensor calibration, implicit-explicit combined 3D reconstruction.
+</div>
 
-<!--table><tr><td align="center" width="55%">
-  
-[![Chunran's github stats](https://github-readme-stats.vercel.app/api?username=xuankuzcr&count_private=true&show_icons=true&theme=dark)](https://github.com/xuankuzcr/github-readme-stats)
+## About
 
-</td><td align="top" width="45%">
+I received my Ph.D. from **The University of Hong Kong** in 2025 and my B.Eng. in Automation from **Xi'an Jiaotong University** in 2020. Recently, I was selected as Huawei **TopMinds** at the highest level and joined IAS BU.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuankuzcr&layout=compact&theme=dark)](https://github.com/xuankuzcr/github-readme-stats)
+My work focuses on spatial intelligence powered by **LiDAR-vision fusion**, including LiDAR-inertial-visual SLAM, multi-sensor calibration, implicit-explicit 3D reconstruction, feed-forward reconstruction, and semantic mapping.
 
-</td></tr></table-->
+## Project Board
+
+| Project | Focus | Links |
+| --- | --- | --- |
+| **FAST-LIVO2** | Fast, direct LiDAR-inertial-visual odometry with a unified voxel map. (2025 TRO Best Paper Award) | [Code](https://github.com/hku-mars/FAST-LIVO2) |
+| **FAST-LIVO** | Tightly-coupled sparse-direct LiDAR-inertial-visual odometry for real-time robust state estimation. | [Code](https://github.com/hku-mars/FAST-LIVO) |
+| **FAST-Calib** | Handy LiDAR-camera extrinsic calibration tool that makes research-lab calibration close to intrinsic calibration workflows. | [Code](https://github.com/hku-mars/FAST-Calib) |
+| **FAST-Calib2** | Robust LiDAR-camera calibration tool for large-spot LiDARs. | [Code](https://github.com/xuankuzcr/FAST-Calib2) |
+| **CamVox** | A LiDAR-assisted visual SLAM system. | [Code](https://github.com/xuankuzcr/CamVox) |
+| **GS-LIVO** | Real-time LiDAR, inertial, and visual odometry with Gaussian mapping for photorealistic scene representation. | [Code](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) |
+| **Global-LVBA** | Globally consistent LiDAR-Visual Bundle Adjustment for post-refinement. | [Code](https://github.com/xuankuzcr/Global-LVBA) |
+| **LIV-Handhold** | Hardware-synchronized handheld and UAV platform for modular 3D scanning. | [Code](https://github.com/xuankuzcr/LIV_handhold) |
+| **FAST-LIVO2-RTK** | FAST-LIVO2 with RTK/GNSS-constrained global optimization. | [Code](https://github.com/xuankuzcr/FAST-LIVO2-RTK) |
