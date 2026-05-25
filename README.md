@@ -16,12 +16,12 @@ My work focuses on spatial intelligence powered by LiDAR-vision fusion, includin
 
 | Project | Focus | Links |
 | --- | --- | --- |
-| **FAST&#8209;LIVO2** | Fast, direct LiDAR-inertial-visual odometry with a unified voxel map. (2025 TRO Best Paper Award) | [Code](https://github.com/hku-mars/FAST-LIVO2) |
+| **LIV&#8209;Handheld** | Hardware-synchronized handheld and UAV platform for modular 3D scanning. | [Code](https://github.com/xuankuzcr/LIV_handhold) |
+| **FAST&#8209;Calib** | A handy LiDAR-camera calibration tool. | [Code](https://github.com/hku-mars/FAST-Calib) |
+| **FAST&#8209;Calib2** | A robust LiDAR-camera calibration tool for large-spot LiDARs. | [Code](https://github.com/xuankuzcr/FAST-Calib2) |
 | **FAST&#8209;LIVO** | Tightly-coupled sparse-direct LiDAR-inertial-visual odometry for real-time robust state estimation. | [Code](https://github.com/hku-mars/FAST-LIVO) |
-| **FAST&#8209;Calib** | Handy LiDAR-camera extrinsic calibration tool that makes research-lab calibration close to intrinsic calibration workflows. | [Code](https://github.com/hku-mars/FAST-Calib) |
-| **FAST&#8209;Calib2** | Robust LiDAR-camera calibration tool for large-spot LiDARs. | [Code](https://github.com/xuankuzcr/FAST-Calib2) |
-| **CamVox** | A LiDAR-assisted visual SLAM system. | [Code](https://github.com/xuankuzcr/CamVox) |
-| **GS&#8209;LIVO** | Real-time LiDAR, inertial, and visual odometry with Gaussian mapping for photorealistic scene representation. | [Code](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) |
-| **Global&#8209;LVBA** | Globally consistent LiDAR-Visual Bundle Adjustment for post-refinement. | [Code](https://github.com/xuankuzcr/Global-LVBA) |
-| **LIV&#8209;Handhold** | Hardware-synchronized handheld and UAV platform for modular 3D scanning. | [Code](https://github.com/xuankuzcr/LIV_handhold) |
+| **FAST&#8209;LIVO2** | Fast, direct LiDAR-inertial-visual odometry with a unified voxel map.<br>**(2025 TRO Best Paper Award)** | [Code](https://github.com/hku-mars/FAST-LIVO2) |
 | **FAST&#8209;LIVO2&#8209;RTK** | FAST-LIVO2 with RTK/GNSS-constrained global optimization. | [Code](https://github.com/xuankuzcr/FAST-LIVO2-RTK) |
+| **GS&#8209;LIVO** | LiDAR-inertial-visual odometry with Gaussian mapping for photorealistic scene representation. | [Code](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) |
+| **CamVox** | A LiDAR-assisted visual SLAM system. | [Code](https://github.com/xuankuzcr/CamVox) |
+| **Global&#8209;LVBA** | Globally consistent LiDAR-Visual Bundle Adjustment for post-refinement. | [Code](https://github.com/xuankuzcr/Global-LVBA) |
